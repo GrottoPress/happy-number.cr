@@ -1,0 +1,13 @@
+name: happy_number
+version: 0.1.0
+
+description: |
+  Query or verify happy and unhappy numbers
+
+authors:
+  - GrottoPress <info@grottopress.com>
+  - N Atta Kusi Adusei <attakusiadusei@gmail.com>
+
+crystal: 0.28.0
+
+license: MIT
