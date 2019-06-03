@@ -11,7 +11,7 @@ This shard is a Crystal implementation of the happy number sequence.
 ```yaml
 dependencies:
   happy_number:
-    github: grottopress/happy_number.cr
+    github: grottopress/happy-number.cr
 ```
 
 2. Run `shards install`
@@ -41,7 +41,7 @@ Kindly report suspected security vulnerabilities in private, via contact details
 
 ## Contributing
 
-1. Fork it (<https://github.com/grottopress/happy_number.cr/fork>)
+1. Fork it (<https://github.com/grottopress/happy-number.cr/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
