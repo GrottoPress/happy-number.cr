@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ### Changed
 - Rename repository to `happy-number.cr`
+- Move `Range` specs into its own module
 
 ## 0.1.0 - 2019-05-30
 
