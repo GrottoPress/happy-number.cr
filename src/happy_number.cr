@@ -2,7 +2,7 @@ module HappyNumber
   VERSION = {{ `shards version #{__DIR__}`.chomp.stringify }}
 
   def happy?
-    sum = self.digits.map{ |i| i ** 2 }.sum
+    sum = self.digits.map(&.** 2).sum
     sum == 1 || sum > 6 && sum.happy?
   end
 
